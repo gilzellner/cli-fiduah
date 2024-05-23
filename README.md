@@ -6,7 +6,7 @@
 
 ---
 
-@erikzaadi
+[@erikzaadi](https://github.com/erikzaadi)
 
 > איזה שיר מזרחי שומעים בדבעופז?
 
@@ -14,7 +14,7 @@
 
 ---
 
-@erikzaadi
+[@erikzaadi](https://github.com/erikzaadi)
 
 > מה עשתה מומחית האקסל בבריכה?
 
@@ -22,7 +22,7 @@
 
 ---
 
-@erikzaadi
+[@erikzaadi](https://github.com/erikzaadi)
 
 > איך מפתחים שאוהבים unix עובדים?
 
@@ -30,7 +30,7 @@
 
 ---
 
-@erikzaadi
+[@erikzaadi](https://github.com/erikzaadi)
 
 > איזה queue system משתשמשים ברכבת ישראל?
 
@@ -38,7 +38,7 @@
 
 ---
 
-@erikzaadi
+[@erikzaadi](https://github.com/erikzaadi)
 
 > מה חובה לעשות שבמקשים ממך קוד ריוויו?
 
@@ -46,30 +46,32 @@
 
 ---
 
-@erikzaadi
+[@erikzaadi](https://github.com/erikzaadi)
 
 > איפה מפתחים ותיקים שומרים קוד?
 
 > בגיט-אב!
 
 
-@gilzellner
+[@gilzellner](https://github.com/gilzellner)
 > באיזה קונטיינרים משתמשים נתנייתים?
 >
 > דוקר !
 >
 
-@terasky
+[@terasky](https://github.com/terasky)
+
 > איך מברך איש דב-עופס דתי?
 >
 > בעזרת ה shell !
 
-@terasky
+[@terasky](https://github.com/terasky)
+
 > באיזה מערכת תורים משתמשים במשרד הדתות ?
 > Rabbi-MQ
 >
 
-@terasky
+[@terasky](https://github.com/terasky)
 
 > איך איש דב-עופס דתי מברך על אוכל ?
 
