@@ -6,6 +6,12 @@
 
 ---
 
+@mclzion
+
+![favorite food](https://github.com/mclzion/cli-fiduah/blob/main/favorite_food.png?raw=true)
+
+---
+
 @erikzaadi
 
 > איזה שיר מזרחי שומעים בדבעופז?
