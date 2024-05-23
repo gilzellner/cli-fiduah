@@ -8,7 +8,7 @@
 
 @mclzion
 
-![favorite food](https://github.com/mclzion/cli-fiduah/blob/main/memes/favorite_food.png?raw=true)
+![favorite food](https://github.com/gilzellner/cli-fiduah/blob/main/memes/favorite_food.png?raw=true)
 
 ---
 
