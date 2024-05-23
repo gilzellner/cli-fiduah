@@ -52,12 +52,11 @@
 
 > בגיט-אב!
 
-
 [@gilzellner](https://github.com/gilzellner)
+
 > באיזה קונטיינרים משתמשים נתנייתים?
 >
 > דוקר !
->
 
 [@terasky](https://github.com/terasky)
 
@@ -69,10 +68,16 @@
 
 > באיזה מערכת תורים משתמשים במשרד הדתות ?
 > Rabbi-MQ
->
 
 [@terasky](https://github.com/terasky)
 
 > איך איש דב-עופס דתי מברך על אוכל ?
 
 > ברכת אמזון!
+
+[@geymed](https://github.com/geymed)
+
+> שני מפתחים יושבים בקוד ריוויו ומהסתכלים על השינויים
+> אחד שואל את השני:
+
+> מה עdiff?
