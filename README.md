@@ -108,6 +108,13 @@
 > מה קרה לגברת שהלכה לעולמה בפייסבוק?
 >
 > meta!
+
+[@yossisassi](https://github.com/YossiSassi)
+
+< מה אומרים לחייל בסדיר שעדיין לא התחיל לעבוד באזרחות כתכניתן?
+
+אל יתהולל חוגר כמפתח 
+=======
 ---
 
 [@bladefistx2](https://github.com/bladefistx2)
