@@ -108,13 +108,19 @@
 > מה קרה לגברת שהלכה לעולמה בפייסבוק?
 >
 > meta!
+---
+
+[@avivhu](https://github.com/avivhu)
+
+> הוראות אלו נכתבו ב-Dump.
+---
 
 [@yossisassi](https://github.com/YossiSassi)
 
 < מה אומרים לחייל בסדיר שעדיין לא התחיל לעבוד באזרחות כתכניתן?
 
 אל יתהולל חוגר כמפתח 
-=======
+---
 ---
 
 [@bladefistx2](https://github.com/bladefistx2)
