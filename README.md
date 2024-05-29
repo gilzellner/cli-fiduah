@@ -168,11 +168,20 @@
 ---
 
 
+[@anativ](https://github.com/anativ)
+
+מה עושה דבאופס ערס?
+דוקר!
+
+---
+
+
 [@adamatan](https://github.com/adamatan/adamatan)
 
-> למה מפתחי C לבושים סחבות?
+> למה מפתחי C לבושים סחבות? 
 > 
 > כי אין להם קלאס
+
 
 ---
 
