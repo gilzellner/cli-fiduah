@@ -239,3 +239,103 @@
 > איך קוראים לשגיאת floating point בקוד של הודים?
 >
 > נאן
+
+---
+
+[@yoav85](https://x.com/yoav85/status/603254615170134016)
+
+> התחלתי לכתוב סיטקום על חייו של אלן טיורינג.
+>
+> זו תהיה קומדיית מכונת מצבים
+
+
+---
+
+[@yoav85](https://x.com/yoav85/status/1745777028484288812)
+
+> מישהו שכח לגבות את קבצי הפייתון שעבד עליהם. איך אפשר לעזור לו?
+>
+> מזמינים לוכד נחשים
+
+
+---
+
+[@yoav85](https://x.com/yoav85/status/1016678295788818434)
+
+> איך קוראים למסעדה שמיועדת למפתחים/ות שמעוניינים לעדכן את ה-git שלהם תוך כדי שהם אוכלים?
+>
+> מפגש החומוס והפּוּל
+
+---
+
+[@yoav85](https://x.com/yoav85/status/1584557679267414017)
+
+> מכירים את השיר הזה, על פונקציית גיבוב גרועה במיוחד?
+>
+> 🎶 זה כמו hash, hash על הפנים 🎵 
+
+---
+
+[@yoav85](https://x.com/yoav85/status/1543152496423608320)
+
+> מכירים את השיר הזה, על פונקציה שאחד הפרמטרים שלה הוא פונקציה אחרת?
+>
+> 🎶 בואי ונביא לך ת׳func 🎵 
+
+---
+
+[@yoav85](https://x.com/yoav85/status/1571781389564911616)
+
+> חבר התחיל לעשות כושר והציע לי להצטרף איתו לקבוצת ריצה.
+>
+> אבל אני העדפתי דווקא קבוצת דיבוג
+
+---
+
+[@yoav85](https://x.com/yoav85/status/1555169176481894400)
+
+> מה אמר דוד בן-גוריון כשנגמר לו הזכרון במכונה?
+>
+> OOM shmoom
+
+---
+
+[@yoav85](https://x.com/yoav85/status/1494262693397680132)
+
+> (במהלך סשן של קוד ריוויו)
+> - מה לגבי התנאי הזה?
+> - תעיף
+> - כן, זה מה ששאלתי: מה דעתך לגבי ה- if?
+> - כמו שאמרתי, תעיף ת׳if
+> - את אומרת ״תעיף תעיף״, אבל את מה בדיוק?
+> - ת׳if
+> - אעעעע
+
+---
+
+[@yoav85](https://x.com/yoav85/status/1039164851107577856)
+
+> מלצר: תרצו לשמוע על מנות הפסטה שלנו?
+>
+> אני: לא תודה, יש לי כבר מספיק פסטה בקוד שלי
+
+---
+
+[@yoav85](https://x.com/yoav85/status/1522194188548427780)
+
+> מכירים את Char Broil, החברה שמייצרת מנגלים ביתיים?
+>
+> לא רבים יודעים זאת, אבל פעם הם מכרו גריל גז ארוך מהרגיל - קראו לזה String Broil
+
+---
+
+[@yoav85](https://x.com/yoav85/status/1338818790252044288)
+
+> "Show me how scared you are!"
+> "Now, look as if you're going to sue me"
+> "Pose like you're sneaking from the back door while everyone are asleep"
+> "Make a face of an offer I can't refuse"
+> 
+> ...
+> 
+> Being a Threat Model isn't what I expected it to be.
