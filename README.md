@@ -292,8 +292,11 @@
 [@yoav85](https://x.com/yoav85/status/1338818790252044288)
 
 > "Show me how scared you are!"
+>
 > "Now, look as if you're going to sue me"
+>
 > "Pose like you're sneaking from the back door while everyone are asleep"
+>
 > "Make a face of an offer I can't refuse"
 > 
 > ...
