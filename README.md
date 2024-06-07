@@ -199,3 +199,27 @@
 > איזה כלי נגינה מפתחים מעדיפים?
 >
 > גיט-טרה
+
+ ---
+
+[@yanilov](https://github.com/yanilov)
+
+> למה טבעונים שונאים את Redis?
+>
+> כי זה meatבקאש
+
+--- 
+
+[@yanilov](https://github.com/yanilov)
+
+> הכנתי פרגיות על הראוטר אבל טעיתי במתכון
+>
+> כנראה עוף by WAN error
+
+--- 
+
+[@yanilov](https://github.com/yanilov)
+
+> איך קוראים לשגיאת floating point בקוד של הודים?
+>
+> נאן
