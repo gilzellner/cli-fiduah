@@ -200,7 +200,23 @@
 >
 > גיט-טרה
 
- ---
+---
+
+[@naorpeled](https://github.com/naorpeled)
+
+> מה המנה האהובה על אנשי דבאופס במסעדה אסיאתית?
+>
+> פוד קפאו
+
+---
+
+[@naorpeled](https://github.com/naorpeled)
+
+> מה השם של כלי התשתיות שבעזרתו מדפלפים גברים דושים?
+>
+> ManIAC
+
+---
 
 [@yanilov](https://github.com/yanilov)
 
