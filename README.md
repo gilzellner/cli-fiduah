@@ -342,3 +342,9 @@
 > ...
 > 
 > Being a Threat Model isn't what I expected it to be.
+
+[@erikzaadi](https://github.com/erikzaadi)
+
+> איך אומרים בעברית לעשות Refactor?
+
+> פינוי בינוי!!1
